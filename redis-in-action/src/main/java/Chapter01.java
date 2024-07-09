@@ -8,10 +8,10 @@ import java.util.*;
  * @Description: 如何使用Redis构建一个简单的文章投票网站的后端
  * <p></p>
  * 数据结构：
- *  1. 使用两个<strong>有序集合zset</strong>来有序存储文章。
+ *  1. 有序集合--有序存储文章。
  *      time{"文章ID":"发布时间", ...}
  *      score{"文章ID":"评分", ...}
- *  2. 为每篇文章记录一个已投票的用户名单<strong>集合</strong>
+ *  2. 集合--为每篇文章记录一个已投票的用户名单
  *      voted{"用户ID", ...}
  */
 public class Chapter01 {

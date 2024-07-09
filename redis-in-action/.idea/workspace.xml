@@ -9,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Chapter01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Chapter02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,8 @@
       <workItem from="1720078105299" duration="7277000" />
       <workItem from="1720098365185" duration="644000" />
       <workItem from="1720103328756" duration="987000" />
-      <workItem from="1720139755167" duration="2517000" />
+      <workItem from="1720139755167" duration="3077000" />
+      <workItem from="1720490069958" duration="5191000" />
     </task>
     <servers />
   </component>
