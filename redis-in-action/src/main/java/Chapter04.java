@@ -16,11 +16,11 @@ import java.util.Set;
  * <p></p>
  * 数据结构：
  * 1.散列--用户信息如姓名和余额
- * user{"name":"funds", ...}
+ *      user{"name":"funds", ...}
  * 2.集合--用户包裹里的商品
- * inventory{"item", ...}
+ *      inventory{"item", ...}
  * 3.有序集合--市场存储被销售商品的信息
- * market{"item+seller":"price"}
+ *      market{"item+seller":"price"}
  */
 
 public class Chapter04 {
